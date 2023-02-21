@@ -1,5 +1,5 @@
 const VideoLetter = () => {
-  return <div></div>;
+  return <div>나에게 영상편지</div>;
 };
 
 export default VideoLetter;
