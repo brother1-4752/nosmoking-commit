@@ -15,3 +15,9 @@
 /user/:id(\\d+)/voicerecording : 나에게 음성녹음
 /user/:id(\\d+)/voicerecording/upload : 음성녹음 등록
 /user/:id(\\d+)/voicerecording/delete : 음성녹음 삭제
+
+# 기능
+
+1. 금연 N계명
+2. 특정 시간주기로 자신이 쓴 N계명 중 랜덤으로 알림전송
+3. 금연을 결심한 강렬한 순간을 영상편지나 음성메세지로 저장
