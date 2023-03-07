@@ -10,7 +10,7 @@
 // export default Journal;
 
 const Journal = () => {
-  return <div>저널</div>;
+  return <div>금연일지</div>;
 };
 
 export default Journal;
